@@ -1,0 +1,8 @@
+arrowParens: always
+printWidth: 100
+singleQuote: true
+useTabs: true
+overrides:
+  - files: ['package.json', 'tsconfig.json']
+    options:
+      useTabs: false
