@@ -1,4 +1,4 @@
-# Explore Papers Demo
+# RecSys 2024 Live Paper Recommender
 
 Next.js application demonstrating [Recombee](https://www.recombee.com) recommendation capabilities by showcasing research papers from previous RecSys conferences. Created for [RecSys '24](https://recsys.acm.org/recsys24/), this project illustrates how Recombee can be used to build a full-featured recommendation system without additional backend services.
 
